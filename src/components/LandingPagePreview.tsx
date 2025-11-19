@@ -181,7 +181,7 @@ export function LandingPagePreview({ concept, heroImage, isLoadingImage, imageEr
                 >
                   <div 
                     className="w-12 h-12 rounded-lg flex items-center justify-center mb-4"
-                    style={{ backgroundColor: palette.accent }}
+                    style={{ backgroundColor: palette.accent}}
                   >
                     <Icon className="w-6 h-6" style={{ color: accentTextColor }} />
                   </div>
