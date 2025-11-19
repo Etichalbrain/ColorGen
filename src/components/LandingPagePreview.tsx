@@ -51,7 +51,7 @@ export function LandingPagePreview({ concept, heroImage, isLoadingImage, imageEr
   const featureIcons = [Zap, Star, Shield];
 
   return (
-    <div className="h-screen overflow-hidden bg-sidebar">
+    <div className="h-screen  bg-sidebar">
       {/* Navbar */}
       <nav 
         className="sticky top-0 z-50 border-b"
